@@ -1,0 +1,21 @@
+# NetBeans and Ant Build Output
+build/
+dist/
+nbbuild/
+nbdist/
+/nbproject/private/
+
+# Compiled Java Classes
+*.class
+
+# Temporary configuration files
+Privet/User
+Privet/*_Pass
+Privet/Connction
+
+# IDE and OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
